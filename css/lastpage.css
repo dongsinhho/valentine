@@ -9,8 +9,12 @@ body {
   font-size: 50px;
   margin-bottom: 20px;
 }
+img#rizz {
+  width: 200px;
+}
 .rizz {
   margin-bottom: 10 px;
+  width: 100px;
 }
 .button {
   padding: 10px 20px;
